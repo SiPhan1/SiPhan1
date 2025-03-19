@@ -15,9 +15,6 @@ Hello! I'm **<Your Name>** 👋. Here you can explore my projects, collaboration
   A simple tool for testing your internet speed with Spring Boot integration.  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-- **[Talk Show: Exploring Regional Cuisine](https://github.com/username/project-3)**  
-  A creative talk show that dives into the culture behind regional foods in Vietnam.  
-  ![Vietnam](https://img.shields.io/badge/Cuisine-Vietnam-red?style=for-the-badge)
 
 ---
 
@@ -37,8 +34,6 @@ Let's connect and collaborate on exciting projects!
 
 ## ⚡ **Fun Facts**  
 - 🛠️ I built a speed test tool as part of my networking coursework.
-- 🍲 I hosted a talk show about Vietnamese food without cooking anything!
-- 🎵 I enjoy writing about the role of music in society.
 
 ---
 
@@ -49,9 +44,6 @@ Let's connect and collaborate on exciting projects!
 ---
 
 ## 🏆 **Achievements**
-- ⭐ **Completed 30+ projects** on web development, networking, and more.
-- 🏅 **Awarded best project** for a mobile app design report.
-- 📊 **Presented at an international conference** in Japan, 2024.
 
 ---
 
