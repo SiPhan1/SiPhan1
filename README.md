@@ -7,7 +7,7 @@ Hello! I'm **<Your Name>** 👋. Here you can explore my projects, collaboration
 
 ## 📂 **Projects and Highlights**  
 ### 🛠️ Featured Projects  
-- **[Project 1: WEB BÁN HÀNG](https://github.com/username/project-1)**  
+- **[Project 1: WEB BÁN HÀNG]([https://github.com/username/project-1](https://github.com/SiPhan1/Nhom21_DoAnJava))**  
   A Spring Boot + Thymeleaf application for managing products and categories.  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
