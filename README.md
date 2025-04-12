@@ -8,7 +8,7 @@ Welcome to my GitHub! Here you can explore my projects, coursework, and code jou
 
 ## 📂 **Projects and Highlights**
 
-### 🔐 [Project 1: Phát hiện và ngăn chặn brute-force với Fail2Ban](https://github.com/SiPhan1)
+### 🔐 [Project 1: Phát hiện và ngăn chặn brute-force với Fail2Ban](https://github.com/SiPhan1/fail2ban-detection)
 A Linux-based security project using **Fail2Ban** to detect and block brute-force attacks on services like SSH, Apache, and Nginx.  
 Key features:
 - Log monitoring and automatic IP banning
@@ -17,7 +17,7 @@ Key features:
 
 ---
 
-### 🌐 [Project 2: Internet Speed Tester](https://github.com/SiPhan1/project-speedtest)
+### 🌐 [Project 2: Internet Speed Tester](https://github.com/SiPhan1/speedtest-app)
 A tool for testing internet speed including download, upload, and ping – developed using **Spring Boot** backend.  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
