@@ -9,7 +9,6 @@ Hello! I'm **<Your Name>** 👋. Here you can explore my projects, collaboration
 ### 🛠️ Featured Projects  
 - **[Project 1: Phát hiện và ngăn chặn brute-force với Fail2Ban ]([https://github.com/SiPhan1])**  
   A Spring Boot + Thymeleaf application for managing products and categories.  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 - **[Project 2: Internet Speed Tester](https://github.com/username/project-2)**  
   A simple tool for testing your internet speed with Spring Boot integration.  
