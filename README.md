@@ -40,8 +40,7 @@ Kiểm thử giả lập các cuộc tấn công (brute-force, unauthorized acce
 
 Tự động gửi cảnh báo khi có hành vi bất thường
 
-**Languages**: Java, Dart, Python, JavaScript  
-**Frameworks**: Spring Boot, Flutter, Thymeleaf, Bootstrap  
+
 
 ---
 
