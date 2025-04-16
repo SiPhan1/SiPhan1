@@ -17,17 +17,28 @@ Key features:
 
 ---
 
-### 🌐 [Project 2: Internet Speed Tester](https://github.com/SiPhan1/speedtest-app)
-A tool for testing internet speed including download, upload, and ping – developed using **Spring Boot** backend.  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### 🌐 [Project 2: AWS CLOUD_COMPUTING](https://github.com/SiPhan1/Could_Computing)
+Đồ án học phần triển khai hệ thống bảo mật toàn diện trên nền tảng AWS với các công nghệ như IAM, VPC, S3, KMS, CloudTrail và CloudWatch.
+Mục tiêu: Bảo vệ tài nguyên cloud khỏi truy cập trái phép và các mối đe dọa mạng.
+🔧 Công nghệ sử dụng:
 
----
+IAM (Quản lý truy cập người dùng & role)
 
-## 💡 **About Me**
-I'm a passionate **developer and tech enthusiast** with interests in:
-- 🔧 Web Development (Java, Spring Boot, Flutter)
-- 🔐 Network Security and Linux
-- 💬 Soft skills: teamwork, communication, self-learning
+VPC, Security Groups, Network ACLs (Bảo mật mạng)
+
+S3 + KMS (Mã hóa & quản lý dữ liệu nhạy cảm)
+
+CloudTrail, CloudWatch (Giám sát & cảnh báo)
+
+🎯 Tính năng nổi bật:
+
+Cấu hình mô hình mạng với subnet công khai & riêng tư
+
+Thiết lập Auto Scaling và bảo mật phân lớp
+
+Kiểm thử giả lập các cuộc tấn công (brute-force, unauthorized access...)
+
+Tự động gửi cảnh báo khi có hành vi bất thường
 
 **Languages**: Java, Dart, Python, JavaScript  
 **Frameworks**: Spring Boot, Flutter, Thymeleaf, Bootstrap  
@@ -54,7 +65,7 @@ I'm a passionate **developer and tech enthusiast** with interests in:
 
 ## 🏆 **Achievements**
 - ✅ Completed Linux System Security Project (2025)
-- 🎓 GPA: 3.1/4.0 at HUTECH University
+- 🎓 GPA: 2.52/4.0 at HUTECH University
 
 ---
 
